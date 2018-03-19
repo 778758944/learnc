@@ -2,11 +2,11 @@
 //  test.c
 //  learnc
 //
-//  Created by xiaobo on 2017/10/27.
-//  Copyright © 2017年 xiaobo. All rights reserved.
+//  Created by xiaobo on 2018/3/17.
+//  Copyright © 2018年 xiaobo. All rights reserved.
 //
 
 #include "test.h"
-int sum(int a, int b){
-    return a + b;
-};
+void printInt(int num){
+    printf("%d\n", num);
+}

@@ -8,6 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		1D0C14D21FBC9E3A00241D88 /* tree.c in Sources */ = {isa = PBXBuildFile; fileRef = 1D0C14D01FBC9E3A00241D88 /* tree.c */; };
+		1D24F710205CEF3E00F00E1C /* p15-3.c in Sources */ = {isa = PBXBuildFile; fileRef = 1D24F70F205CEF3E00F00E1C /* p15-3.c */; };
+		1D24F713205CF13A00F00E1C /* index.c in Sources */ = {isa = PBXBuildFile; fileRef = 1D24F712205CF13A00F00E1C /* index.c */; };
+		1D24F715205CF1B500F00E1C /* p15-4.c in Sources */ = {isa = PBXBuildFile; fileRef = 1D24F714205CF1B500F00E1C /* p15-4.c */; };
+		1D24F719205CF24200F00E1C /* test.c in Sources */ = {isa = PBXBuildFile; fileRef = 1D24F718205CF24200F00E1C /* test.c */; };
+		1D24F71B205CFB4500F00E1C /* p15-5.c in Sources */ = {isa = PBXBuildFile; fileRef = 1D24F71A205CFB4500F00E1C /* p15-5.c */; };
+		1D24F71D205D024500F00E1C /* p15-6.c in Sources */ = {isa = PBXBuildFile; fileRef = 1D24F71C205D024500F00E1C /* p15-6.c */; };
 		1D3457781FCDB5DA00FB53B3 /* r11-10.c in Sources */ = {isa = PBXBuildFile; fileRef = 1D3457771FCDB5DA00FB53B3 /* r11-10.c */; };
 		1D34577B1FCDBB2300FB53B3 /* r11-11.c in Sources */ = {isa = PBXBuildFile; fileRef = 1D34577A1FCDBB2300FB53B3 /* r11-11.c */; };
 		1D3BE5481FDED7CE0009B1AD /* r13-1.c in Sources */ = {isa = PBXBuildFile; fileRef = 1D3BE5471FDED7CE0009B1AD /* r13-1.c */; };
@@ -17,7 +23,6 @@
 		1D3C03A120593ABE00453165 /* p14-10.c in Sources */ = {isa = PBXBuildFile; fileRef = 1D3C03A020593ABE00453165 /* p14-10.c */; };
 		1D3C03A320593D6700453165 /* p14-11.c in Sources */ = {isa = PBXBuildFile; fileRef = 1D3C03A220593D6700453165 /* p14-11.c */; };
 		1D3C03A52059579700453165 /* p15-1.c in Sources */ = {isa = PBXBuildFile; fileRef = 1D3C03A42059579700453165 /* p15-1.c */; };
-		1D53567E1FA243EA005788B4 /* test.c in Sources */ = {isa = PBXBuildFile; fileRef = 1D53567C1FA243EA005788B4 /* test.c */; };
 		1D573B4E1FA0DC3E00C33F2F /* petname.c in Sources */ = {isa = PBXBuildFile; fileRef = 1D573B4D1FA0DC3E00C33F2F /* petname.c */; };
 		1D60EF101FD83BA4002F104A /* p11-12.c in Sources */ = {isa = PBXBuildFile; fileRef = 1D60EF0F1FD83BA4002F104A /* p11-12.c */; };
 		1D60EF131FD83DBA002F104A /* p11-13.c in Sources */ = {isa = PBXBuildFile; fileRef = 1D60EF121FD83DBA002F104A /* p11-13.c */; };
@@ -71,6 +76,14 @@
 /* Begin PBXFileReference section */
 		1D0C14D01FBC9E3A00241D88 /* tree.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = tree.c; sourceTree = "<group>"; };
 		1D0C14D11FBC9E3A00241D88 /* tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = tree.h; sourceTree = "<group>"; };
+		1D24F70F205CEF3E00F00E1C /* p15-3.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = "p15-3.c"; path = "c/chart15/pratice/p15-3.c"; sourceTree = "<group>"; };
+		1D24F712205CF13A00F00E1C /* index.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = index.c; sourceTree = "<group>"; };
+		1D24F714205CF1B500F00E1C /* p15-4.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = "p15-4.c"; path = "c/chart15/pratice/p15-4.c"; sourceTree = "<group>"; };
+		1D24F716205CF1C400F00E1C /* p15-4.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "p15-4.h"; path = "c/chart15/pratice/p15-4.h"; sourceTree = "<group>"; };
+		1D24F717205CF24200F00E1C /* test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test.h; sourceTree = "<group>"; };
+		1D24F718205CF24200F00E1C /* test.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = test.c; sourceTree = "<group>"; };
+		1D24F71A205CFB4500F00E1C /* p15-5.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = "p15-5.c"; path = "c/chart15/pratice/p15-5.c"; sourceTree = "<group>"; };
+		1D24F71C205D024500F00E1C /* p15-6.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = "p15-6.c"; path = "c/chart15/pratice/p15-6.c"; sourceTree = "<group>"; };
 		1D3457761FCDB5DA00FB53B3 /* r11-10.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "r11-10.h"; sourceTree = "<group>"; };
 		1D3457771FCDB5DA00FB53B3 /* r11-10.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "r11-10.c"; sourceTree = "<group>"; };
 		1D34577A1FCDBB2300FB53B3 /* r11-11.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "r11-11.c"; sourceTree = "<group>"; };
@@ -85,8 +98,6 @@
 		1D3C03A020593ABE00453165 /* p14-10.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = "p14-10.c"; path = "c/chart14/pratice/p14-10.c"; sourceTree = "<group>"; };
 		1D3C03A220593D6700453165 /* p14-11.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = "p14-11.c"; path = "c/chart14/pratice/p14-11.c"; sourceTree = "<group>"; };
 		1D3C03A42059579700453165 /* p15-1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = "p15-1.c"; path = "c/chart15/pratice/p15-1.c"; sourceTree = "<group>"; };
-		1D53567C1FA243EA005788B4 /* test.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = test.c; sourceTree = "<group>"; };
-		1D53567D1FA243EA005788B4 /* test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test.h; sourceTree = "<group>"; };
 		1D573B4A1FA0DC3E00C33F2F /* learnc */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c.preprocessed; includeInIndex = 0; path = learnc; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D573B4D1FA0DC3E00C33F2F /* petname.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = petname.c; sourceTree = "<group>"; };
 		1D60EF0F1FD83BA4002F104A /* p11-12.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "p11-12.c"; sourceTree = "<group>"; };
@@ -171,11 +182,10 @@
 				1DEA8B241FA246E100EBCF4E /* c */,
 				1D573B4D1FA0DC3E00C33F2F /* petname.c */,
 				1D7683F51FC5D65C00D80C45 /* p10-3.c */,
-				1D53567C1FA243EA005788B4 /* test.c */,
-				1D53567D1FA243EA005788B4 /* test.h */,
 				1D0C14D01FBC9E3A00241D88 /* tree.c */,
 				1D7683F21FC5D02200D80C45 /* p10-2.c */,
 				1D0C14D11FBC9E3A00241D88 /* tree.h */,
+				1D24F71C205D024500F00E1C /* p15-6.c */,
 				1DDE11E51FBDE0A200F47939 /* main.c */,
 				1DFEB7A51FC729F200552824 /* p10-12.c */,
 				1DFEB79E1FC7242200552824 /* p10-9.h */,
@@ -195,6 +205,7 @@
 				1D729E831FCC62A700CD662E /* r11-3.c */,
 				1D729E861FCC64F400CD662E /* r11-4.c */,
 				1D3457761FCDB5DA00FB53B3 /* r11-10.h */,
+				1D24F716205CF1C400F00E1C /* p15-4.h */,
 				1D3457771FCDB5DA00FB53B3 /* r11-10.c */,
 				1D34577A1FCDBB2300FB53B3 /* r11-11.c */,
 				1DCAA9AE1FCEE3EE00FC858B /* p11-1.c */,
@@ -220,9 +231,15 @@
 				1D3C03A020593ABE00453165 /* p14-10.c */,
 				1D991B5B1FE16EC80030F0AD /* p13-3.h */,
 				1D3C03A220593D6700453165 /* p14-11.c */,
+				1D24F714205CF1B500F00E1C /* p15-4.c */,
+				1D24F717205CF24200F00E1C /* test.h */,
+				1D24F718205CF24200F00E1C /* test.c */,
 				1D991B5C1FE16EC80030F0AD /* p13-3.c */,
+				1D24F71A205CFB4500F00E1C /* p15-5.c */,
 				1DBF2567205172930056C8E6 /* p14-4.c */,
+				1D24F712205CF13A00F00E1C /* index.c */,
 				1D991B611FE175500030F0AD /* p13-4.h */,
+				1D24F70F205CEF3E00F00E1C /* p15-3.c */,
 				1D9B5FF0205ACAB100018140 /* p15-2.c */,
 				1D991B621FE175500030F0AD /* p13-4.c */,
 				1D3C03A42059579700453165 /* p15-1.c */,
@@ -313,24 +330,27 @@
 				1D0C14D21FBC9E3A00241D88 /* tree.c in Sources */,
 				1D991B5A1FE167220030F0AD /* p13-2.c in Sources */,
 				1D60EF131FD83DBA002F104A /* p11-13.c in Sources */,
+				1D24F713205CF13A00F00E1C /* index.c in Sources */,
 				1DFEB7971FC71E0700552824 /* p10-6.c in Sources */,
 				1D729E811FCC60D800CD662E /* r11-2.c in Sources */,
 				1D7A11A41FE2C8210000F77E /* p13-6.c in Sources */,
 				1D573B4E1FA0DC3E00C33F2F /* petname.c in Sources */,
 				1D8B69781FD04F040018C4A1 /* p11-10.c in Sources */,
 				1D991B5D1FE16EC80030F0AD /* p13-3.c in Sources */,
+				1D24F71D205D024500F00E1C /* p15-6.c in Sources */,
 				1D3BE5521FDEE2340009B1AD /* r13-5.c in Sources */,
 				1D3BE5481FDED7CE0009B1AD /* r13-1.c in Sources */,
+				1D24F71B205CFB4500F00E1C /* p15-5.c in Sources */,
 				1D3BE54B1FDEDA520009B1AD /* r13-2.c in Sources */,
 				1D60EF101FD83BA4002F104A /* p11-12.c in Sources */,
 				1DCAA9AF1FCEE3EE00FC858B /* p11-1.c in Sources */,
 				1DBF256A205177B70056C8E6 /* p14-5.c in Sources */,
+				1D24F710205CEF3E00F00E1C /* p15-3.c in Sources */,
 				1D3C03A52059579700453165 /* p15-1.c in Sources */,
 				1DFEB7A01FC7242200552824 /* p10-9.c in Sources */,
 				1D3BE54E1FDEDD960009B1AD /* r13-4.c in Sources */,
 				1D3C03A120593ABE00453165 /* p14-10.c in Sources */,
 				1DFEB7A31FC725F700552824 /* p10-10.c in Sources */,
-				1D53567E1FA243EA005788B4 /* test.c in Sources */,
 				1DFEB7A61FC729F200552824 /* p10-12.c in Sources */,
 				1D991B661FE17A660030F0AD /* p13-5.c in Sources */,
 				1D729E931FCC71ED00CD662E /* r11-9.c in Sources */,
@@ -339,7 +359,9 @@
 				1D729E8D1FCC6C8A00CD662E /* r11-7.c in Sources */,
 				1D3C03A320593D6700453165 /* p14-11.c in Sources */,
 				1DABC6362057E8F4002F611C /* p14-7.c in Sources */,
+				1D24F719205CF24200F00E1C /* test.c in Sources */,
 				1DBF2568205172930056C8E6 /* p14-4.c in Sources */,
+				1D24F715205CF1B500F00E1C /* p15-4.c in Sources */,
 				1D9B5FF1205ACAB100018140 /* p15-2.c in Sources */,
 				1D34577B1FCDBB2300FB53B3 /* r11-11.c in Sources */,
 			);
