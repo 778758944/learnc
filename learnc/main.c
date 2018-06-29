@@ -18,42 +18,43 @@ void showpets(Tree * pt);
 void printitem(Item item);
 void findpet(Tree * pt);
 void droppet(Tree * pt);
-
-//int main(void){
-//    char choice;
-//    Tree tree;
-//    InitializTree(&tree);
-//    while((choice = menu()) != 'q'){
-//        switch(choice) {
-//            case 'a':
-//                addpet(&tree);
-//                break;
-//                
-//            case 'l':
-//                showpets(&tree);
-//                break;
-//                
-//            case 'n':
-//                printf("number of pets is %d\n", tree.size);
-//                break;
-//                
-//            case 'f':
-//                findpet(&tree);
-//                break;
-//                
-//            case 'd':
-//                droppet(&tree);
-//                break;
-//                
-//            default:
-//                puts("switch");
-//        }
-//    }
-//    
-//    DeleteAll(&tree);
-//    puts("Bye");
-//    return 0;
-//}
+/*
+int main(void){
+    char choice;
+    Tree tree;
+    InitializTree(&tree);
+    while((choice = menu()) != 'q'){
+        switch(choice) {
+            case 'a':
+                addpet(&tree);
+                break;
+                
+            case 'l':
+                showpets(&tree);
+                break;
+                
+            case 'n':
+                printf("number of pets is %d\n", tree.size);
+                break;
+                
+            case 'f':
+                findpet(&tree);
+                break;
+                
+            case 'd':
+                droppet(&tree);
+                break;
+                
+            default:
+                puts("switch");
+        }
+    }
+    
+    DeleteAll(&tree);
+    puts("Bye");
+    return 0;
+}
+ */
 
 char menu(void){
     char ch;
